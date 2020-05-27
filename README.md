@@ -1,4 +1,4 @@
-# Race-Projeto-Filna-2020.1
+# Running from the police-Projeto-Filna-2020.1
 
 Esse jogo joga-se um de cada vez (single player). A históia do jogo é que o jogador é um "bandido" que esta fugindo dos carros de policia, e com isso o jogador deve controlar um carrinho para que ele não bata nos carros dos policiais para não ser preso.
 
