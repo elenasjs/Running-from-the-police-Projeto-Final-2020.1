@@ -1,8 +1,8 @@
 # Running from the police-Projeto-Final-2020.1
 
-Esse jogo joga-se um de cada vez (single player). A históia do jogo é que o jogador é um "bandido" que esta fugindo dos carros de policia, e com isso o jogador deve controlar um carrinho para que ele não bata nos carros dos policiais para não ser preso.
+Esse jogo joga-se um de cada vez (single player). A históia do jogo é que o jogador é um "bandido" que esta fugindo dos carros de policia, e com isso o jogador deve controlar um carrinho em uma pista para que ele não bata nos carros dos policiais para não ser preso.
 
-No meio da estrada é possivel encontrar 3 coisas que podem ajudar ou podem atrapalhar. O "+" te da mais 5 pontos. A "estrela" te da o poder de ter mais tiros para destruir os carros de policia. Já a possa de oleo é uma coisa negativa, pois quando você passar por cima dela seu carro desvia da direção que ele estava indo.
+No meio da estrada é possivel encontrar 2 coisas que podem ajudar o  jogador. O "+", que cada um te da mais 5 pontos no seu recorde, e a  "estrela", que te da o poder de ter mais tiros para destruir os carros dos policiais.
 
-Att. Elena Santos e Bruno Sato
+Autores: Elena Santos e Bruno Sato
 (Jogo feito para o Projeto Final da materia Designe de Software - Insper 2020.1)
